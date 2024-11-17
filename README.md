@@ -25,5 +25,6 @@
 <img width="1108" alt="스크린샷 2024-11-17 오후 7 48 59" src="https://github.com/user-attachments/assets/b64b93b2-950c-44f2-bc6a-f5ef04350a1d">
 <img width="900" alt="스크린샷 2024-11-17 오후 7 49 09" src="https://github.com/user-attachments/assets/f6e1a500-1b6c-41d2-b7e8-4fa1063d35b0">
 
+<img width="897" alt="스크린샷 2024-11-17 오후 7 55 10" src="https://github.com/user-attachments/assets/1a5f39f6-6f56-464c-a0a3-493964329525">
 
 
