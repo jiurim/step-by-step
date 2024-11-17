@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+    margin: auto;
+}
+
+.banner {
+    margin: auto;
+    height: 40px;
+    line-height: 40px;
+    background: #f0e6d6;
+    padding-left: 20px;
+    color: white;
+}
+
+.banner h1 {
+    margin: 0;
+    color: #333;
+    font-size: 2em;
+}
+
+.main-icon {
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+}
+
+.content{
+    font-size: 1.2em;
+    color: #333;
+    line-height: 1.5em;
+    margin: auto;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: white;
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #555;
+}
